@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T21:53:54Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2600
+            "stars": 2601
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T21:17:03Z",
+            "last_commit": "2026-08-13T08:24:38Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2068
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:05.111Z",
+    "last_updated": "2026-08-13T12:05:17.318Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
     "enhanced_repository": "enhansome/enhansome-open-source-licensing",
