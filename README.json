@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T01:35:52Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2607
+                "stars": 2608
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T11:11:52Z",
+                "last_commit": "2026-08-21T10:11:45Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2069
+                "stars": 2070
               }
             },
             {
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:48:28.095Z",
+    "last_updated": "2026-08-21T11:48:32.107Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_id": 431793245,
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
