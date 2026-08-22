@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 38373338,
                 "language": "Python",
-                "last_commit": "2026-08-19T01:35:52Z",
+                "last_commit": "2026-08-22T02:36:15Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2608
+                "stars": 2609
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T10:11:45Z",
+                "last_commit": "2026-08-22T09:44:21Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2070
+                "stars": 2072
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 120163244,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:45:29Z",
+                "last_commit": "2026-08-22T00:49:10Z",
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 373
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:48:32.107Z",
+    "last_updated": "2026-08-22T11:41:18.498Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_id": 431793245,
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
