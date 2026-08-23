@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T02:36:15Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2609
+                "stars": 2610
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 120163244,
                 "language": "Python",
-                "last_commit": "2026-08-22T00:49:10Z",
+                "last_commit": "2026-08-23T04:43:04Z",
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 373
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:41:18.498Z",
+    "last_updated": "2026-08-23T11:41:39.034Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_id": 431793245,
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
