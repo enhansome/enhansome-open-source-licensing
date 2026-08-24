@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T10:30:34Z",
+                "last_commit": "2026-08-24T12:55:13Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2073
@@ -219,13 +219,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools & libs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[free] Plugin for checking license compatibility in IntelliJ IDEA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 300825939,
+                "language": "Kotlin",
+                "last_commit": "2026-01-13T15:36:11Z",
+                "owner": "JetBrains-Research",
+                "repo": "sorrel",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "License management solutions"
         }
       ],
       "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:49:49.568Z",
+    "last_updated": "2026-08-24T14:44:49.411Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_id": 431793245,
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
