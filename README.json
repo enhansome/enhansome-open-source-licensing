@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 38373338,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:37:30Z",
+                "last_commit": "2026-08-25T08:48:37Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
                 "stars": 2612
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T06:31:52Z",
+                "last_commit": "2026-08-25T11:27:35Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2073
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:41.692Z",
+    "last_updated": "2026-08-25T11:50:41.463Z",
     "original_repository": "CodeScoring/awesome-open-source-licensing",
     "original_repository_id": 431793245,
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
