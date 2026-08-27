@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 38373338,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:54:57Z",
+                "last_commit": "2026-08-27T16:08:43Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
                 "stars": 2613
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T10:49:26Z",
+                "last_commit": "2026-08-27T20:45:18Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2076
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 120163244,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:47:20Z",
+                "last_commit": "2026-08-27T20:52:16Z",
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 373
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:53.284Z",
+    "last_updated": "2026-08-27T21:04:05.914Z",
     "original_repository_info": {
       "archived": false,
       "id": 431793245,
