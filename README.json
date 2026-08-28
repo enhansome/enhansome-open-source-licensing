@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 38373338,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:08:43Z",
+                "last_commit": "2026-08-28T12:24:18Z",
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
                 "stars": 2613
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 107540288,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T20:45:18Z",
+                "last_commit": "2026-08-28T17:34:13Z",
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2076
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2024-07-22T21:57:46Z",
                 "owner": "pivotal",
                 "repo": "LicenseFinder",
-                "stars": 1794
-              }
+                "stars": 1795
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2024-01-29T23:56:03Z",
                 "owner": "davglass",
                 "repo": "license-checker",
-                "stars": 1680
-              }
+                "stars": 1681
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 373
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "dhatim",
                 "repo": "python-license-check",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "go-enry",
                 "repo": "go-license-detector",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "FHPythonUtils",
                 "repo": "LicenseCheck",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "dmgerman",
                 "repo": "ninka",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "pilosus",
                 "repo": "pip-license-checker",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "pilosus",
                 "repo": "action-pip-license-checker",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "ubersan",
                 "repo": "pylic",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "ftpsolutions",
                 "repo": "python-third-party-license-file-generator",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "bbc",
                 "repo": "apache2-license-checker",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             }
           ],
           "description": null,
@@ -235,7 +249,8 @@
                 "owner": "JetBrains-Research",
                 "repo": "sorrel",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:27:41.670Z"
             }
           ],
           "description": null,
@@ -247,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:04:05.914Z",
+    "last_updated": "2026-08-28T21:27:41.670Z",
     "original_repository_info": {
       "archived": false,
       "id": 431793245,
