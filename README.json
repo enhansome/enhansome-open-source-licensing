@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mag: ScanCode detects licenses, copyrights, dependencies by \"scanning code\" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer of Code, Azure credits, nexB and other generous sponsors!",
+                "homepage": "https://scancode-toolkit.readthedocs.io/",
                 "id": 38373338,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:24:18Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:43:07Z",
+                "open_issues": 1675,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2613
+                "stars": 2613,
+                "topics": [
+                  "copyright",
+                  "copyright-scan",
+                  "cyclonedx",
+                  "dependencies",
+                  "dependency-graph",
+                  "license",
+                  "license-checking",
+                  "license-scan",
+                  "licensing",
+                  "open-source-licensing",
+                  "oss-compliance",
+                  "package-url",
+                  "packages",
+                  "provenance",
+                  "purl",
+                  "sbom",
+                  "sca",
+                  "software-composition-analysis",
+                  "spdx",
+                  "spdx-licenses"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -28,12 +54,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of tools to automate software compliance checks.",
+                "homepage": "https://oss-review-toolkit.org",
                 "id": 107540288,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:34:13Z",
+                "open_issues": 322,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2076
+                "stars": 2076,
+                "topics": [
+                  "compliance",
+                  "copyright",
+                  "cra",
+                  "cyclonedx",
+                  "dependencies",
+                  "dependency-graph",
+                  "dora",
+                  "hacktoberfest",
+                  "license",
+                  "license-management",
+                  "open-source-licensing",
+                  "ospo",
+                  "oss-compliance",
+                  "package-manager",
+                  "sbom",
+                  "sbom-generator",
+                  "sca",
+                  "spdx"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -44,12 +94,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find licenses for your project's dependencies.",
+                "homepage": null,
                 "id": 1262785,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-07-22T21:57:46Z",
+                "open_issues": 149,
                 "owner": "pivotal",
                 "repo": "LicenseFinder",
-                "stars": 1795
+                "stars": 1795,
+                "topics": [
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -60,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check NPM package licenses",
+                "homepage": null,
                 "id": 7612484,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-29T23:56:03Z",
+                "open_issues": 97,
                 "owner": "davglass",
                 "repo": "license-checker",
-                "stars": 1681
+                "stars": 1681,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -76,12 +138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dump the license list of packages installed with pip.",
+                "homepage": null,
                 "id": 120163244,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:52:16Z",
+                "open_issues": 46,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "administrator",
+                  "license-checking",
+                  "markdown",
+                  "pip",
+                  "pypi-packages"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -92,12 +165,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check python packages from requirement.txt and report issues",
+                "homepage": null,
                 "id": 101060105,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T06:07:48Z",
+                "open_issues": 27,
                 "owner": "dhatim",
                 "repo": "python-license-check",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "check",
+                  "license",
+                  "python",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -108,12 +191,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reliable project licenses detector.",
+                "homepage": null,
                 "id": 268128249,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-25T22:34:41Z",
+                "open_issues": 17,
                 "owner": "go-enry",
                 "repo": "go-license-detector",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "golang",
+                  "license-management",
+                  "spdx-license",
+                  "spdx-licenses",
+                  "spdxlicense-scan"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -124,12 +218,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Output the licenses used by dependencies and check if these are compatible with the project license",
+                "homepage": null,
                 "id": 303150412,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-21T22:02:42Z",
+                "open_issues": 13,
                 "owner": "FHPythonUtils",
                 "repo": "LicenseCheck",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "licensecheck",
+                  "python",
+                  "python-requirements"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -140,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " a license identification tool for Source Code",
+                "homepage": "http://ninka.turingmachine.org",
                 "id": 1278819,
                 "language": "Roff",
+                "license": "GPL-2.0",
                 "last_commit": "2022-06-19T00:36:33Z",
+                "open_issues": 23,
                 "owner": "dmgerman",
                 "repo": "ninka",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -156,12 +264,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check license types for third-party dependencies: permissive, copyleft, proprietory, etc.",
+                "homepage": "https://blog.pilosus.org/posts/2021/09/07/pip-license-checker/",
                 "id": 314879497,
                 "language": "Clojure",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-22T18:32:42Z",
+                "open_issues": 14,
                 "owner": "pilosus",
                 "repo": "pip-license-checker",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "ci-cd",
+                  "compliance",
+                  "dependency-management",
+                  "foss",
+                  "license",
+                  "license-checking",
+                  "license-management"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -172,12 +293,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.",
+                "homepage": null,
                 "id": 384743248,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2026-06-22T17:42:27Z",
+                "open_issues": 1,
                 "owner": "pilosus",
                 "repo": "action-pip-license-checker",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "actions",
+                  "continuous-integration",
+                  "dependency-management",
+                  "github-actions",
+                  "license",
+                  "license-compliance",
+                  "license-management"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -188,12 +322,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python license checker",
+                "homepage": null,
                 "id": 340355283,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-19T21:34:05Z",
+                "open_issues": 10,
                 "owner": "ubersan",
                 "repo": "pylic",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "cli",
+                  "license-checking",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -204,12 +347,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool that walks your Python project's requirements and gathers the third party licenses for you",
+                "homepage": null,
                 "id": 129858508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-31T06:42:02Z",
+                "open_issues": 2,
                 "owner": "ftpsolutions",
                 "repo": "python-third-party-license-file-generator",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "licenses",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             },
@@ -220,12 +371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated license checker for validating project dependencies for compatible Apache2 licenses.",
+                "homepage": null,
                 "id": 83544178,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-18T06:28:46Z",
+                "open_issues": 3,
                 "owner": "bbc",
                 "repo": "apache2-license-checker",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "complaints",
+                  "tool",
+                  "tv",
+                  "tv-and-radio"
+                ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             }
@@ -243,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Plugin for checking license compatibility in IntelliJ IDEA",
+                "homepage": null,
                 "id": 300825939,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-13T15:36:11Z",
+                "open_issues": 0,
                 "owner": "JetBrains-Research",
                 "repo": "sorrel",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
             }
@@ -262,15 +428,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:41.670Z",
+    "last_updated": "2026-08-29T05:01:14.942Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cool links, tools & papers related to Open Source Licensing",
+      "homepage": null,
       "id": 431793245,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-07-30T04:46:01Z",
+      "open_issues": 0,
       "owner": "CodeScoring",
       "repo": "awesome-open-source-licensing",
-      "stars": 74
+      "stars": 74,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "license",
+        "license-management",
+        "license-scan",
+        "licensing",
+        "open-source-licensing",
+        "oss-compliance",
+        "software-licensing"
+      ]
     },
     "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
     "enhanced_repository": "enhansome/enhansome-open-source-licensing",
