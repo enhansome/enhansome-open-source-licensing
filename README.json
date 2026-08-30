@@ -21,7 +21,7 @@
                 "open_issues": 1675,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:40:52.913Z",
+    "last_updated": "2026-08-30T15:23:12.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
