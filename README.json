@@ -21,7 +21,7 @@
                 "open_issues": 1677,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2615,
+                "stars": 2616,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,8 +59,8 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T15:14:38Z",
-                "open_issues": 326,
+                "last_commit": "2026-09-02T15:06:18Z",
+                "open_issues": 328,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2077,
@@ -143,7 +143,7 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T23:28:43Z",
+                "last_commit": "2026-09-01T19:34:35Z",
                 "open_issues": 43,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:29:31.857Z",
+    "last_updated": "2026-09-02T15:09:44.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
