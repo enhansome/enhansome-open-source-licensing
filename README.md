@@ -71,8 +71,8 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,617 | 🐛 1,678 | 🌐 Python | 📅 2026-08-31 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,079 | 🐛 327 | 🌐 Kotlin | 📅 2026-09-03 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,617 | 🐛 1,680 | 🌐 Python | 📅 2026-09-04 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,079 | 🐛 329 | 🌐 Kotlin | 📅 2026-09-04 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,795 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,681 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 373 | 🐛 43 | 🌐 Python | 📅 2026-09-03 - Dump the software license list of Python packages installed with pip.
@@ -82,7 +82,7 @@
 * [ninka](https://github.com/dmgerman/ninka) ⭐ 111 | 🐛 23 | 🌐 Roff | 📅 2022-06-19 - a license identification tool for Source Code
 * [pip-license-checker](https://github.com/pilosus/pip-license-checker) ⭐ 77 | 🐛 14 | 🌐 Clojure | 📅 2026-06-22 - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
 * [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2026-06-22 - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
-* [pylic](https://github.com/ubersan/pylic) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2025-03-19 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
+* [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2025-03-19 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
 * [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2025-12-31 - A tool that walks your Python project's requirements and gathers the third party licenses for you.
 * [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-18 - Automated license checker for validating project dependencies for compatible Apache2 licenses.
 * [license-radar](https://pypi.org/project/license-radar/) - CLI that scans Python and npm dependency manifests (requirements.txt, pyproject.toml, setup.cfg, Pipfile, package.json) and fails CI when a GPL/AGPL/SSPL or unknown-license dependency shows up. Offline by default; --online queries PyPI/npm. Also a pre-commit hook.
@@ -175,4 +175,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
