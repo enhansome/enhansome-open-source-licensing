@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T14:27:06Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-05T06:47:06Z",
+                "open_issues": 330,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2079,
+                "stars": 2080,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:01:02.116Z",
+    "last_updated": "2026-09-05T13:55:11.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
