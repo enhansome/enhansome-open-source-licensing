@@ -60,10 +60,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T06:47:06Z",
-                "open_issues": 330,
+                "open_issues": 331,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2080,
+                "stars": 2081,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -143,11 +143,11 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T03:18:36Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-06T03:42:49Z",
+                "open_issues": 44,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "administrator",
                   "license-checking",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:55:11.343Z",
+    "last_updated": "2026-09-06T14:15:52.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
