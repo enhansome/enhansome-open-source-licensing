@@ -59,8 +59,8 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T06:47:06Z",
-                "open_issues": 331,
+                "last_commit": "2026-09-07T14:50:23Z",
+                "open_issues": 329,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2081,
@@ -126,7 +126,7 @@
                 "open_issues": 97,
                 "owner": "davglass",
                 "repo": "license-checker",
-                "stars": 1681,
+                "stars": 1680,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:15:52.844Z",
+    "last_updated": "2026-09-07T16:33:25.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
