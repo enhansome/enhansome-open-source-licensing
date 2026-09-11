@@ -6,6 +6,7 @@
 * [To bookmarks](#to-bookmarks)
 * [FAQs](#faqs)
 * [Case Study](#case-study)
+* [Articles & Essays](#articles--essays)
 * [Papers & Talks](#papers--talks)
 * [Courses](#courses)
 * [Software](#software)
@@ -38,20 +39,29 @@
 ## FAQs
 
 * [Open Source Initiative FAQ](https://opensource.org/faq)
-* [GNU General Public License FAQ](http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html)
+* [GNU General Public License FAQ](https://www.gnu.org/licenses/gpl-faq.html)
 * [Apache License FAQ](https://www.apache.org/foundation/license-faq.html)
 * [Eclipse Public License FAQ](http://www.eclipse.org/legal/eplfaq.php)
 * [Mozilla Public License FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
 ## Case Study
 
+* [ChessBase GmbH and the Stockfish team reach an agreement and end their legal dispute](https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/); [settlement](https://stockfishchess.org/files/settlement_english.pdf) — Stockfish, 2022
+* [FINRA: Improving development efficiencies and tightening open source security](https://www.blackduck.com/resources/case-studies/finra.html) — Black Duck
 * [Creative Commons legal database](https://legaldb.creativecommons.org/)
 * [Legal issues for the use of Free and Open Source Software in Government, 2005](http://www.mulr.com.au/issues/29_2/29_2_3.pdf)
 * [Legal Issues Relating to Free and Open Source Software, 2003](https://eprints.qut.edu.au/13673/1/open_source_book.pdf)
 * [A Primer on Open Source Licensing Legal Issues: Copyright, Copyleft and Copyfuture, 2001](https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1393\&context=plr)
 
+## Articles & Essays
+
+* [Evolution of Open Source Licensing to the Triple Licensing Model](https://medium.com/bofoss/evolution-of-commercial-open-source-licensing-eda9d3b218d0) — Mandy Sidana, 2025
+
 ## Papers & Talks
 
+* [Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](https://arxiv.org/abs/2507.05270) — Boyuan Li, Chengwei Liu, Lingling Fan, Sen Chen, Zhenlin Zhang, Zheli Liu, 2025
+* ["The Law Doesn't Work Like a Computer": Exploring Software Licensing Issues Faced by Legal Practitioners](https://arxiv.org/abs/2403.14927) — Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, Denys Poshyvanyk, 2024
+* [A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges](https://xing-hu.github.io/assets/papers/msr2024.pdf) — Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, Xin Xia, Xing Hu, 2024
 * [An analysis of open source software licensing questions in Stack Exchange sites](https://arxiv.org/abs/2110.00361) — Maria Papoutsoglou, Georgia M. Kapitsaki, Daniel German, Lefteris Angelis, 2021
 * [Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities](https://arxiv.org/abs/2107.13315) — Dmitry Pogrebnoy, Ivan Kuznetsov, Yaroslav Golubev, Vladislav Tankov, Timofey Bryksin, 2021
 * [A Study of Potential Code Borrowing and License Violations in Java Projects on GitHub](https://arxiv.org/abs/2002.05237), [talk](https://www.youtube.com/watch?v=gyjHn-qIAtY) — Yaroslav Golubev, Maria Eliseeva, Nikita Povarov, Timofey Bryksin, 2020
@@ -71,11 +81,11 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,619 | 🐛 1,683 | 🌐 Python | 📅 2026-09-09 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,081 | 🐛 325 | 🌐 Kotlin | 📅 2026-09-10 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,621 | 🐛 1,684 | 🌐 Python | 📅 2026-09-11 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,080 | 🐛 326 | 🌐 Kotlin | 📅 2026-09-11 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,796 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,680 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
-* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 374 | 🐛 46 | 🌐 Python | 📅 2026-09-10 - Dump the software license list of Python packages installed with pip.
+* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 374 | 🐛 49 | 🌐 Python | 📅 2026-09-11 - Dump the software license list of Python packages installed with pip.
 * [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 28 | 🌐 Python | 📅 2026-07-20 - Check python packages from requirement.txt and report issues
 * [go-license-detector](https://github.com/go-enry/go-license-detector) ⭐ 144 | 🐛 17 | 🌐 Go | 📅 2025-08-25 - Reliable project licenses detector
 * [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) ⭐ 114 | 🐛 13 | 🌐 Python | 📅 2026-06-21 - Output the licences used by dependencies and check if these are compatible with the project license.
@@ -121,6 +131,10 @@
 
 ## License compliance
 
+* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 116 | 🐛 20 | 🌐 HTML | 📅 2026-08-21
+* [Bosch: Fostering a collaborative culture between Open Source and the legal department](https://opensource.bosch.com/stories/os-and-legal/)
+* [VMware: OSPO in the Enterprise — Mitigating Risk and Ensuring Compliance](https://blogs.vmware.com/opensource/2022/10/13/ospo-in-the-enterprise-mitigating-risk-ensuring-compliance/)
+* [Nokia: Responsible open source usage — Building a trusted supply chain with OpenChain](https://www.nokia.com/blog/responsible-open-source-usage-building-a-trusted-supply-chain-with-openchain/)
 * [GNU license compliance with Others](https://www.gnu.org/licenses/license-list.html)
 * [GNU about License Compatibility and Relicensing](https://www.gnu.org/licenses/license-compatibility.html)
 * [ASF about license compliance](https://www.apache.org/legal/resolved.html)
@@ -175,4 +189,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

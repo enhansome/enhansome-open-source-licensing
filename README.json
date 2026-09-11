@@ -17,11 +17,11 @@
                 "id": 38373338,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T01:11:59Z",
-                "open_issues": 1683,
+                "last_commit": "2026-09-11T13:07:26Z",
+                "open_issues": 1684,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2619,
+                "stars": 2621,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:22:52Z",
-                "open_issues": 325,
+                "last_commit": "2026-09-11T14:55:46Z",
+                "open_issues": 326,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2081,
+                "stars": 2080,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -143,8 +143,8 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T03:16:00Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-11T00:59:43Z",
+                "open_issues": 49,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 374,
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T15:03:30.409Z",
+    "last_updated": "2026-09-11T15:06:17.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
@@ -436,7 +436,7 @@
       "id": 431793245,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-07-30T04:46:01Z",
+      "last_commit": "2026-09-11T09:09:35Z",
       "open_issues": 0,
       "owner": "CodeScoring",
       "repo": "awesome-open-source-licensing",
@@ -453,7 +453,7 @@
         "software-licensing"
       ]
     },
-    "original_repository_sha": "14c0ce5e0b9be87d5baf04121735f2bec299de01",
+    "original_repository_sha": "b7131ae8b4351324d0faf8a252bd51c06a54c612",
     "enhanced_repository": "enhansome/enhansome-open-source-licensing",
     "enhanced_repository_description": null,
     "title": "Awesome Open Source Licensing with stars"
