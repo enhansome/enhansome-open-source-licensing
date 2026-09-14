@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T16:33:28Z",
-                "open_issues": 1691,
+                "open_issues": 1694,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2621,
+                "stars": 2622,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,8 +59,8 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T10:55:28Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-14T12:20:58Z",
+                "open_issues": 323,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2083,
@@ -143,7 +143,7 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T00:58:21Z",
+                "last_commit": "2026-09-13T23:47:11Z",
                 "open_issues": 46,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "go-enry",
                 "repo": "go-license-detector",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "golang",
                   "license-management",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:57:20.042Z",
+    "last_updated": "2026-09-14T16:59:12.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
