@@ -17,8 +17,8 @@
                 "id": 38373338,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T03:35:45Z",
-                "open_issues": 1684,
+                "last_commit": "2026-09-18T19:14:08Z",
+                "open_issues": 1686,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
                 "stars": 2622,
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T10:36:33Z",
+                "last_commit": "2026-09-19T14:16:48Z",
                 "open_issues": 324,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2084,
+                "stars": 2085,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -126,7 +126,7 @@
                 "open_issues": 97,
                 "owner": "davglass",
                 "repo": "license-checker",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
@@ -170,8 +170,8 @@
                 "id": 101060105,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-20T06:07:48Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-18T20:29:58Z",
+                "open_issues": 29,
                 "owner": "dhatim",
                 "repo": "python-license-check",
                 "stars": 184,
@@ -273,7 +273,7 @@
                 "open_issues": 14,
                 "owner": "pilosus",
                 "repo": "pip-license-checker",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "ci-cd",
                   "compliance",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:03:19.290Z",
+    "last_updated": "2026-09-19T14:32:46.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",

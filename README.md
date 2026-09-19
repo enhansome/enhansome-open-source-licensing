@@ -81,16 +81,16 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,622 | 🐛 1,684 | 🌐 Python | 📅 2026-09-18 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,084 | 🐛 324 | 🌐 Kotlin | 📅 2026-09-18 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,622 | 🐛 1,686 | 🌐 Python | 📅 2026-09-18 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,085 | 🐛 324 | 🌐 Kotlin | 📅 2026-09-19 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,797 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
-* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,679 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
+* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,680 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 374 | 🐛 47 | 🌐 Python | 📅 2026-09-18 - Dump the software license list of Python packages installed with pip.
-* [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 28 | 🌐 Python | 📅 2026-07-20 - Check python packages from requirement.txt and report issues
+* [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt and report issues
 * [go-license-detector](https://github.com/go-enry/go-license-detector) ⭐ 145 | 🐛 17 | 🌐 Go | 📅 2025-08-25 - Reliable project licenses detector
 * [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) ⭐ 114 | 🐛 13 | 🌐 Python | 📅 2026-06-21 - Output the licences used by dependencies and check if these are compatible with the project license.
 * [ninka](https://github.com/dmgerman/ninka) ⭐ 111 | 🐛 23 | 🌐 Roff | 📅 2022-06-19 - a license identification tool for Source Code
-* [pip-license-checker](https://github.com/pilosus/pip-license-checker) ⭐ 77 | 🐛 14 | 🌐 Clojure | 📅 2026-06-22 - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
+* [pip-license-checker](https://github.com/pilosus/pip-license-checker) ⭐ 78 | 🐛 14 | 🌐 Clojure | 📅 2026-06-22 - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
 * [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2026-06-22 - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
 * [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2025-03-19 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
 * [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2025-12-31 - A tool that walks your Python project's requirements and gathers the third party licenses for you.
@@ -189,4 +189,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
