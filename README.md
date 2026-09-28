@@ -81,10 +81,10 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,630 | 🐛 1,689 | 🌐 Python | 📅 2026-09-18 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,095 | 🐛 334 | 🌐 Kotlin | 📅 2026-09-26 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,631 | 🐛 1,689 | 🌐 Python | 📅 2026-09-18 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,095 | 🐛 335 | 🌐 Kotlin | 📅 2026-09-28 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,797 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
-* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,680 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
+* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,679 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 374 | 🐛 47 | 🌐 Python | 📅 2026-09-25 - Dump the software license list of Python packages installed with pip.
 * [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt and report issues
 * [go-license-detector](https://github.com/go-enry/go-license-detector) ⭐ 145 | 🐛 17 | 🌐 Go | 📅 2025-08-25 - Reliable project licenses detector
@@ -189,4 +189,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
