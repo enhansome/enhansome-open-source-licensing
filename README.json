@@ -21,7 +21,7 @@
                 "open_issues": 1696,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2634,
+                "stars": 2635,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:56:11Z",
-                "open_issues": 338,
+                "last_commit": "2026-10-04T04:59:06Z",
+                "open_issues": 339,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2097,
+                "stars": 2096,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:10:03.999Z",
+    "last_updated": "2026-10-04T15:52:33.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
