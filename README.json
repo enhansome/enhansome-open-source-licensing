@@ -17,11 +17,11 @@
                 "id": 38373338,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T20:15:03Z",
-                "open_issues": 1699,
+                "last_commit": "2026-10-06T19:35:13Z",
+                "open_issues": 1701,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2637,
+                "stars": 2638,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T17:04:50Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-07T17:22:16Z",
+                "open_issues": 337,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2097,
+                "stars": 2096,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -143,8 +143,8 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T01:38:58Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-07T15:37:32Z",
+                "open_issues": 50,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 374,
@@ -227,7 +227,7 @@
                 "open_issues": 14,
                 "owner": "FHPythonUtils",
                 "repo": "LicenseCheck",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "licensecheck",
                   "python",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:18:29.784Z",
+    "last_updated": "2026-10-07T17:51:53.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
