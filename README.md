@@ -81,8 +81,8 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,641 | 🐛 1,710 | 🌐 Python | 📅 2026-10-12 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,099 | 🐛 336 | 🌐 Kotlin | 📅 2026-10-12 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,642 | 🐛 1,704 | 🌐 Python | 📅 2026-10-13 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,099 | 🐛 337 | 🌐 Kotlin | 📅 2026-10-13 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,798 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,679 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 374 | 🐛 50 | 🌐 Python | 📅 2026-10-09 - Dump the software license list of Python packages installed with pip.
@@ -91,7 +91,7 @@
 * [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-06-21 - Output the licences used by dependencies and check if these are compatible with the project license.
 * [ninka](https://github.com/dmgerman/ninka) ⭐ 111 | 🐛 23 | 🌐 Roff | 📅 2022-06-19 - a license identification tool for Source Code
 * [pip-license-checker](https://github.com/pilosus/pip-license-checker) ⭐ 78 | 🐛 14 | 🌐 Clojure | 📅 2026-06-22 - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
-* [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2026-06-22 - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
+* [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) ⭐ 58 | 🐛 1 | 🌐 Clojure | 📅 2026-06-22 - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
 * [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2025-03-19 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
 * [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2025-12-31 - A tool that walks your Python project's requirements and gathers the third party licenses for you.
 * [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-18 - Automated license checker for validating project dependencies for compatible Apache2 licenses.
@@ -131,7 +131,7 @@
 
 ## License compliance
 
-* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 116 | 🐛 8 | 🌐 HTML | 📅 2026-10-07
+* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 116 | 🐛 9 | 🌐 HTML | 📅 2026-10-07
 * [Bosch: Fostering a collaborative culture between Open Source and the legal department](https://opensource.bosch.com/stories/os-and-legal/)
 * [VMware: OSPO in the Enterprise — Mitigating Risk and Ensuring Compliance](https://blogs.vmware.com/opensource/2022/10/13/ospo-in-the-enterprise-mitigating-risk-ensuring-compliance/)
 * [Nokia: Responsible open source usage — Building a trusted supply chain with OpenChain](https://www.nokia.com/blog/responsible-open-source-usage-building-a-trusted-supply-chain-with-openchain/)
@@ -189,4 +189,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
