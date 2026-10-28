@@ -17,8 +17,8 @@
                 "id": 38373338,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T19:19:31Z",
-                "open_issues": 1726,
+                "last_commit": "2026-10-27T22:23:36Z",
+                "open_issues": 1729,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
                 "stars": 2657,
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T13:25:15Z",
-                "open_issues": 334,
+                "last_commit": "2026-10-28T15:30:02Z",
+                "open_issues": 336,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2107,
+                "stars": 2108,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -126,7 +126,7 @@
                 "open_issues": 97,
                 "owner": "davglass",
                 "repo": "license-checker",
-                "stars": 1677,
+                "stars": 1676,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
@@ -143,8 +143,8 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T04:19:14Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-27T21:20:49Z",
+                "open_issues": 78,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
                 "stars": 378,
@@ -389,6 +389,42 @@
                 ]
               },
               "first_seen": "2026-08-28T21:27:41.670Z"
+            },
+            {
+              "node_type": "item",
+              "title": "licenseproof",
+              "description": "CLI that scans Node (npm, pnpm, Yarn) and Python (uv, Poetry, pip) dependency trees in one report, resolves each package's license against vendored SPDX data, and flags strong-copyleft, non-commercial-only and unidentified licenses that could conflict with your project's license. Offline, no account; sets the CI exit code and it can write a CycloneDX SBOM. The scan is free; it is source-available (Elastic-2.0), not OSI open source.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Know every license in your dependency tree — before your customer's lawyer asks.",
+                "homepage": "https://licenseproof.dev",
+                "id": 1309338081,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-27T06:56:26Z",
+                "open_issues": 0,
+                "owner": "thrillhouse34",
+                "repo": "licenseproof",
+                "stars": 0,
+                "topics": [
+                  "agpl",
+                  "attribution",
+                  "audit",
+                  "cli",
+                  "cyclonedx",
+                  "dependencies",
+                  "gpl",
+                  "license",
+                  "license-compliance",
+                  "licenses",
+                  "open-source-compliance",
+                  "sbom",
+                  "spdx",
+                  "third-party-notices"
+                ]
+              },
+              "first_seen": "2026-10-28T17:12:57.194Z"
             }
           ],
           "description": null,
@@ -428,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:44:29.901Z",
+    "last_updated": "2026-10-28T17:12:57.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
@@ -436,7 +472,7 @@
       "id": 431793245,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-09-11T09:09:35Z",
+      "last_commit": "2026-10-27T22:13:34Z",
       "open_issues": 1,
       "owner": "CodeScoring",
       "repo": "awesome-open-source-licensing",
@@ -453,7 +489,7 @@
         "software-licensing"
       ]
     },
-    "original_repository_sha": "b7131ae8b4351324d0faf8a252bd51c06a54c612",
+    "original_repository_sha": "c5721fc641fa1f0fc8ec361509cf0d33d6c1a254",
     "enhanced_repository": "enhansome/enhansome-open-source-licensing",
     "enhanced_repository_description": null,
     "title": "Awesome Open Source Licensing with stars"

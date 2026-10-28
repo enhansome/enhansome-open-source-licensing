@@ -81,11 +81,11 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,657 | 🐛 1,726 | 🌐 Python | 📅 2026-10-26 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,107 | 🐛 334 | 🌐 Kotlin | 📅 2026-10-27 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,657 | 🐛 1,729 | 🌐 Python | 📅 2026-10-27 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,108 | 🐛 336 | 🌐 Kotlin | 📅 2026-10-28 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,798 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
-* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,677 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
-* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 76 | 🌐 Python | 📅 2026-10-27 - Dump the software license list of Python packages installed with pip.
+* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,676 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
+* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 78 | 🌐 Python | 📅 2026-10-27 - Dump the software license list of Python packages installed with pip.
 * [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt and report issues
 * [go-license-detector](https://github.com/go-enry/go-license-detector) ⭐ 145 | 🐛 18 | 🌐 Go | 📅 2025-08-25 - Reliable project licenses detector
 * [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) ⭐ 116 | 🐛 12 | 🌐 Python | 📅 2026-10-25 - Output the licences used by dependencies and check if these are compatible with the project license.
@@ -95,6 +95,7 @@
 * [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2025-03-19 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
 * [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2025-12-31 - A tool that walks your Python project's requirements and gathers the third party licenses for you.
 * [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-18 - Automated license checker for validating project dependencies for compatible Apache2 licenses.
+* [licenseproof](https://github.com/thrillhouse34/licenseproof) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27 - CLI that scans Node (npm, pnpm, Yarn) and Python (uv, Poetry, pip) dependency trees in one report, resolves each package's license against vendored SPDX data, and flags strong-copyleft, non-commercial-only and unidentified licenses that could conflict with your project's license. Offline, no account; `--fail-on` sets the CI exit code and it can write a CycloneDX SBOM. The scan is free; it is source-available (Elastic-2.0), not OSI open source.
 * [license-radar](https://pypi.org/project/license-radar/) - CLI that scans Python and npm dependency manifests (requirements.txt, pyproject.toml, setup.cfg, Pipfile, package.json) and fails CI when a GPL/AGPL/SSPL or unknown-license dependency shows up. Offline by default; --online queries PyPI/npm. Also a pre-commit hook.
 
 ### License management solutions
@@ -189,4 +190,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
