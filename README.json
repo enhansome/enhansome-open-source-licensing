@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T04:24:36Z",
-                "open_issues": 1732,
+                "open_issues": 1735,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2656,
+                "stars": 2657,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,11 +59,11 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T16:42:22Z",
-                "open_issues": 338,
+                "last_commit": "2026-10-31T10:35:09Z",
+                "open_issues": 340,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
-                "stars": 2110,
+                "stars": 2113,
                 "topics": [
                   "compliance",
                   "copyright",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:03:55.668Z",
+    "last_updated": "2026-10-31T16:12:09.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
