@@ -81,9 +81,9 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,658 | 🐛 1,740 | 🌐 Python | 📅 2026-10-30 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,116 | 🐛 341 | 🌐 Kotlin | 📅 2026-10-31 - A suite of tools to assist with reviewing Open Source Software dependencies
-* [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,798 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,661 | 🐛 1,742 | 🌐 Python | 📅 2026-10-30 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 335 | 🌐 Kotlin | 📅 2026-11-02 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,800 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,676 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 80 | 🌐 Python | 📅 2026-10-31 - Dump the software license list of Python packages installed with pip.
 * [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt and report issues
@@ -92,7 +92,7 @@
 * [ninka](https://github.com/dmgerman/ninka) ⭐ 111 | 🐛 23 | 🌐 Roff | 📅 2022-06-19 - a license identification tool for Source Code
 * [pip-license-checker](https://github.com/pilosus/pip-license-checker) ⭐ 78 | 🐛 14 | 🌐 Clojure | 📅 2026-06-22 - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
 * [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) ⭐ 58 | 🐛 1 | 🌐 Clojure | 📅 2026-06-22 - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
-* [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-10-31 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
+* [pylic](https://github.com/ubersan/pylic) ⭐ 17 | 🐛 9 | 🌐 Python | 📅 2026-11-02 - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
 * [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2025-12-31 - A tool that walks your Python project's requirements and gathers the third party licenses for you.
 * [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-18 - Automated license checker for validating project dependencies for compatible Apache2 licenses.
 * [licenseproof](https://github.com/thrillhouse34/licenseproof) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - CLI that scans Node (npm, pnpm, Yarn) and Python (uv, Poetry, pip) dependency trees in one report, resolves each package's license against vendored SPDX data, and flags strong-copyleft, non-commercial-only and unidentified licenses that could conflict with your project's license. Offline, no account; `--fail-on` sets the CI exit code and it can write a CycloneDX SBOM. The scan is free; it is source-available (Elastic-2.0), not OSI open source.
@@ -191,4 +191,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
