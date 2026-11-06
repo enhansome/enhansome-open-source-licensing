@@ -81,11 +81,11 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,662 | 🐛 1,753 | 🌐 Python | 📅 2026-11-02 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 340 | 🌐 Kotlin | 📅 2026-11-05 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,662 | 🐛 1,780 | 🌐 Python | 📅 2026-11-02 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 335 | 🌐 Kotlin | 📅 2026-11-06 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,800 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
-* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,676 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
-* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 86 | 🌐 Python | 📅 2026-11-05 - Dump the software license list of Python packages installed with pip.
+* [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,678 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
+* [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 86 | 🌐 Python | 📅 2026-11-06 - Dump the software license list of Python packages installed with pip.
 * [liccheck](https://github.com/dhatim/python-license-check) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt and report issues
 * [go-license-detector](https://github.com/go-enry/go-license-detector) ⭐ 145 | 🐛 18 | 🌐 Go | 📅 2025-08-25 - Reliable project licenses detector
 * [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) ⭐ 116 | 🐛 12 | 🌐 Python | 📅 2026-10-25 - Output the licences used by dependencies and check if these are compatible with the project license.
@@ -133,7 +133,7 @@
 
 ## License compliance
 
-* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 117 | 🐛 9 | 🌐 HTML | 📅 2026-10-22
+* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 117 | 🐛 10 | 🌐 HTML | 📅 2026-10-22
 * [Bosch: Fostering a collaborative culture between Open Source and the legal department](https://opensource.bosch.com/stories/os-and-legal/)
 * [VMware: OSPO in the Enterprise — Mitigating Risk and Ensuring Compliance](https://blogs.vmware.com/opensource/2022/10/13/ospo-in-the-enterprise-mitigating-risk-ensuring-compliance/)
 * [Nokia: Responsible open source usage — Building a trusted supply chain with OpenChain](https://www.nokia.com/blog/responsible-open-source-usage-building-a-trusted-supply-chain-with-openchain/)
@@ -191,4 +191,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
