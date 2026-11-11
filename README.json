@@ -17,11 +17,11 @@
                 "id": 38373338,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T22:19:55Z",
-                "open_issues": 1782,
+                "last_commit": "2026-11-11T11:59:29Z",
+                "open_issues": 1796,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2667,
+                "stars": 2668,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -59,8 +59,8 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T18:39:45Z",
-                "open_issues": 338,
+                "last_commit": "2026-11-11T18:41:20Z",
+                "open_issues": 335,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2116,
@@ -143,7 +143,7 @@
                 "id": 120163244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T01:57:36Z",
+                "last_commit": "2026-11-11T05:53:05Z",
                 "open_issues": 80,
                 "owner": "raimon49",
                 "repo": "pip-licenses",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:43:12.825Z",
+    "last_updated": "2026-11-11T18:47:24.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links, tools & papers related to Open Source Licensing",
