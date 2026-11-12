@@ -81,8 +81,8 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,668 | 🐛 1,796 | 🌐 Python | 📅 2026-11-11 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,116 | 🐛 335 | 🌐 Kotlin | 📅 2026-11-11 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,670 | 🐛 1,799 | 🌐 Python | 📅 2026-11-11 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 331 | 🌐 Kotlin | 📅 2026-11-12 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,800 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,678 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 80 | 🌐 Python | 📅 2026-11-11 - Dump the software license list of Python packages installed with pip.
@@ -191,4 +191,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
