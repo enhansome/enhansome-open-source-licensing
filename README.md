@@ -81,8 +81,8 @@
 
 ### Tools & libs
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,673 | 🐛 1,814 | 🌐 Python | 📅 2026-11-11 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,119 | 🐛 329 | 🌐 Kotlin | 📅 2026-11-16 - A suite of tools to assist with reviewing Open Source Software dependencies
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,673 | 🐛 1,820 | 🌐 Python | 📅 2026-11-11 - ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,121 | 🐛 327 | 🌐 Kotlin | 📅 2026-11-17 - A suite of tools to assist with reviewing Open Source Software dependencies
 * [License Finder](https://github.com/pivotal/LicenseFinder) ⭐ 1,801 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
 * [NPM License Checker](https://github.com/davglass/license-checker) ⭐ 1,678 | 🐛 97 | 🌐 JavaScript | 📅 2024-01-29 - Check NPM package licenses
 * [pip-licenses](https://github.com/raimon49/pip-licenses) ⭐ 378 | 🐛 56 | 🌐 Python | 📅 2026-11-16 - Dump the software license list of Python packages installed with pip.
@@ -133,7 +133,7 @@
 
 ## License compliance
 
-* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 117 | 🐛 10 | 🌐 HTML | 📅 2026-11-13
+* [OpenChain ISO/IEC 5230 Self-Certification Checklist](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230/en/iso-5230-2020-Self-Certification-Checklist.md) ⭐ 117 | 🐛 11 | 🌐 HTML | 📅 2026-11-13
 * [Bosch: Fostering a collaborative culture between Open Source and the legal department](https://opensource.bosch.com/stories/os-and-legal/)
 * [VMware: OSPO in the Enterprise — Mitigating Risk and Ensuring Compliance](https://blogs.vmware.com/opensource/2022/10/13/ospo-in-the-enterprise-mitigating-risk-ensuring-compliance/)
 * [Nokia: Responsible open source usage — Building a trusted supply chain with OpenChain](https://www.nokia.com/blog/responsible-open-source-usage-building-a-trusted-supply-chain-with-openchain/)
@@ -191,4 +191,4 @@ Simply create a pull request.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
